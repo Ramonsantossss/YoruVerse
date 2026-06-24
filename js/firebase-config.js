@@ -16,13 +16,13 @@
 
 // Firebase configuration - Replace with your actual config
 const firebaseConfig = {
-  apiKey: "AIzaSyAY2w1cfansDZ1ZsS_-SU40MrG68Pn3Ndw",
-  authDomain: "manhwa-7d544.firebaseapp.com",
-  projectId: "manhwa-7d544",
-  storageBucket: "manhwa-7d544.firebasestorage.app",
-  messagingSenderId: "296957053322",
-  appId: "1:296957053322:web:4ad1c88f8a9ac9bffc6073",
-  measurementId: "G-61M831TW2K"
+  apiKey: "AIzaSyCHTlqyyTpTHeWwYOfnnaU-hqw8aitfTmk",
+  authDomain: "webtoom-3ee65.firebaseapp.com",
+  projectId: "webtoom-3ee65",
+  storageBucket: "webtoom-3ee65.firebasestorage.app",
+  messagingSenderId: "227011650301",
+  appId: "1:227011650301:web:76a0ca76c54ca023c05494",
+  measurementId: "G-S8C9Y9SLGC"
 };
 
 // Initialize Firebase
